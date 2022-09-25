@@ -3,7 +3,7 @@ import java.util.Random;
 public class StudentImpl implements Student
 {
 
-    private String firstName = "rachid first name";
+    private String firstName = "mahmoud first name";
 
     private int age = 12;
 
