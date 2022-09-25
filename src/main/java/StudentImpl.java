@@ -9,11 +9,8 @@ public class StudentImpl implements Student
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
-
-    public StudentImpl() {
+    private String getLabel() {
+        return "myBranch";
     }
 
     @Override
